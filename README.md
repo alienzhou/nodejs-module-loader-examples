@@ -21,8 +21,6 @@ import _ from 'https://cdn.skypack.dev/lodash';
 import css from './b.scss';
 ```
 
----
-
 ## Requirements
 
 - Node.js >= 17 (Current v17.1.0)
